@@ -129,8 +129,14 @@ npm run preview
   - i18n setup
   - Basic routing
 
-- 🚧 **Phase 1: Core Infrastructure** - IN PROGRESS
-- ⏳ **Phase 2: Chat Interface** - PENDING
+- ✅ **Phase 1: Core Infrastructure** - COMPLETE
+  - Shared UI components (Button, Input, Textarea, Spinner, Avatar)
+  - Custom hooks (useDebounce, useLocalStorage, useMediaQuery, useClickOutside)
+  - Zustand stores (UI, Session, Language)
+  - Entity types and APIs (Session, Message, Brief, Glossary)
+  - MSW mock handlers for testing
+
+- 🚧 **Phase 2: Chat Interface** - READY TO START
 - ⏳ **Phase 3: Brief Management** - PENDING
 - ⏳ **Phase 4: Glossary Feature** - PENDING
 - ⏳ **Phase 5: Advanced Features** - PENDING
