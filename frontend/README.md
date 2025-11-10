@@ -136,8 +136,17 @@ npm run preview
   - Entity types and APIs (Session, Message, Brief, Glossary)
   - MSW mock handlers for testing
 
-- 🚧 **Phase 2: Chat Interface** - READY TO START
-- ⏳ **Phase 3: Brief Management** - PENDING
+- ✅ **Phase 2: Chat Interface** - COMPLETE
+  - MessageItem component with role-based styling
+  - MessageList with auto-scroll and empty states
+  - MessageInput with auto-resize and send on Enter
+  - React Query hooks (useMessages, useSendMessage, useCreateSession)
+  - ChatWidget orchestrating full chat experience
+  - HeaderWidget with language selector
+  - Optimistic UI updates for instant feedback
+  - Real-time messaging with polling
+
+- 🚧 **Phase 3: Brief Management** - READY TO START
 - ⏳ **Phase 4: Glossary Feature** - PENDING
 - ⏳ **Phase 5: Advanced Features** - PENDING
 - ⏳ **Phase 6: Testing & Documentation** - PENDING
