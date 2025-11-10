@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Estate Chatbot",
+    "description": "AI-powered real estate chatbot"
+  },
+  "chat": {
+    "title": "Chat",
+    "placeholder": "Type a message...",
+    "send": "Send",
+    "typing": "Typing...",
+    "newChat": "New Chat",
+    "error": "An error occurred. Please try again."
+  },
+  "propertyTypes": {
+    "buy": "Buy",
+    "rent": "Rent",
+    "sell": "Sell"
+  },
+  "brief": {
+    "title": "Property Brief",
+    "summary": "Summary",
+    "completeness": "Completeness",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "submitted": "Submitted",
+    "location": "Location",
+    "budget": "Budget",
+    "rooms": "Rooms",
+    "area": "Area"
+  },
+  "glossary": {
+    "title": "Glossary",
+    "search": "Search terms...",
+    "noResults": "No results found",
+    "categories": "Categories"
+  },
+  "language": {
+    "ja": "日本語",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}

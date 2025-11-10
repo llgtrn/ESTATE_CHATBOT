@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "不動産チャット",
+    "description": "AI搭載の不動産チャットボット"
+  },
+  "chat": {
+    "title": "チャット",
+    "placeholder": "メッセージを入力してください...",
+    "send": "送信",
+    "typing": "入力中...",
+    "newChat": "新しいチャット",
+    "error": "エラーが発生しました。もう一度お試しください。"
+  },
+  "propertyTypes": {
+    "buy": "購入",
+    "rent": "賃貸",
+    "sell": "売却"
+  },
+  "brief": {
+    "title": "物件情報",
+    "summary": "概要",
+    "completeness": "完了度",
+    "submit": "送信",
+    "submitting": "送信中...",
+    "submitted": "送信完了",
+    "location": "場所",
+    "budget": "予算",
+    "rooms": "間取り",
+    "area": "面積"
+  },
+  "glossary": {
+    "title": "用語集",
+    "search": "用語を検索...",
+    "noResults": "結果が見つかりませんでした",
+    "categories": "カテゴリー"
+  },
+  "language": {
+    "ja": "日本語",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "retry": "再試行",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "close": "閉じる"
+  }
+}

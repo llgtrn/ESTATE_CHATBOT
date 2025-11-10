@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Chatbot Bất Động Sản",
+    "description": "Chatbot bất động sản được hỗ trợ bởi AI"
+  },
+  "chat": {
+    "title": "Trò chuyện",
+    "placeholder": "Nhập tin nhắn...",
+    "send": "Gửi",
+    "typing": "Đang nhập...",
+    "newChat": "Trò chuyện mới",
+    "error": "Đã xảy ra lỗi. Vui lòng thử lại."
+  },
+  "propertyTypes": {
+    "buy": "Mua",
+    "rent": "Thuê",
+    "sell": "Bán"
+  },
+  "brief": {
+    "title": "Thông tin bất động sản",
+    "summary": "Tóm tắt",
+    "completeness": "Hoàn thành",
+    "submit": "Gửi",
+    "submitting": "Đang gửi...",
+    "submitted": "Đã gửi",
+    "location": "Vị trí",
+    "budget": "Ngân sách",
+    "rooms": "Phòng",
+    "area": "Diện tích"
+  },
+  "glossary": {
+    "title": "Từ điển",
+    "search": "Tìm kiếm thuật ngữ...",
+    "noResults": "Không tìm thấy kết quả",
+    "categories": "Danh mục"
+  },
+  "language": {
+    "ja": "日本語",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "retry": "Thử lại",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "close": "Đóng"
+  }
+}
